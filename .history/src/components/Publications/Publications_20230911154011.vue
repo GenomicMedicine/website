@@ -93,7 +93,7 @@
     border-radius: 2px;
     margin-right: 10px;
     position: sticky;
-    top: 30%;
+    top: 40%;
     left: 95%;
     visibility: hidden;
     cursor: pointer;
@@ -102,6 +102,5 @@
     font-size: 18px;
     padding-left: 10%;
     padding-top: 10%;
-    color: @navColor;
 }
 </style>
